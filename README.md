@@ -1,16 +1,15 @@
-### Hi there 👋
+## Clara Fonte - Assistente de Implantação de Sistemas e Aluna de ADS na FIAP
 
-<!--
-**Clara-F5/Clara-F5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/Clara-F5/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Clara-F5&theme=radical" />
+</a>
+<a href="https://github.com/Clara-F5/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Clara-F5&layout=compact&langs_count=8&theme=radical" />
+</a>
 
-Here are some ideas to get you started:
+<div style="display: inline_block"><br>
+    <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+  
