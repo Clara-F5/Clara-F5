@@ -1,4 +1,4 @@
-## Clara Fonte - Assistente de Implantação de Sistemas e Aluna de ADS na FIAP
+## Clara Fonte - Assistente de Implantação de Sistemas e Aluna de SI na FIAP
 
 <a href="https://github.com/Clara-F5/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Clara-F5&theme=radical" />
